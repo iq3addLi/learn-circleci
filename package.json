@@ -1,0 +1,22 @@
+{
+  "name": "learn-circleci",
+  "version": "1.0.0",
+  "description": "This project purpose is learn how to use CircleCI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iq3addLi/learn-circleci.git"
+  },
+  "author": "iq3",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iq3addLi/learn-circleci/issues"
+  },
+  "homepage": "https://github.com/iq3addLi/learn-circleci#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
