@@ -1,0 +1,1 @@
+var NumberUtil=function(){function n(){this.add=function(n,t){return n+t}}return n}(),StringUtil=function(){function n(){this.add=function(n,t){return n+t}}return n}();
